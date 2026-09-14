@@ -36,5 +36,5 @@ Mengelola data operasional kandang seperti konsumsi pakan dan produksi telur.
 ### 3. Kasir
 Mengelola transaksi penjualan dan data pembayaran.
 
----
+
 
