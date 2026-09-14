@@ -20,10 +20,9 @@ Apabila pencatatan masih dilakukan secara manual atau menggunakan media yang ter
 ## Solusi Aplikasi
 Smart Egg Farm merupakan sistem informasi manajemen peternakan ayam petelur berbasis web yang mengintegrasikan pencatatan kegiatan operasional dan transaksi peternakan dalam satu sistem.
 Sistem memungkinkan pengguna untuk:
-- Mengelola data ayam
-- Mencatat konsumsi pakan
 - Mencatat produksi telur
 - Mengelola transaksi penjualan
+- Mengelola data pengeluaran peternakan
 - Memantau pendapatan
 - Memantau laba peternakan
 - Melihat dashboard dan laporan
