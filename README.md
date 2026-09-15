@@ -7,7 +7,7 @@ Software Development.
 ## Identitas Kelompok
 **Mata Kuliah:** Software Development
 
-**Nama Kelompok:** MAF
+**Nama Kelompok:** MAF PROJECT
 ### Anggota
 1. Mea Inta Rohmah
 2. Aryo Putra Firmansya
